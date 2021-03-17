@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+    <!-- Exercícios - Continue o exemplo anterior
+ - Crie um parágrafo para cada pessoa da sua lista
+ - Crie um link entre a sua lista e os parágrafos de pessoas
+ - Crie um link para a página do Google
+    --> 
+     <ol>
+<li> <a href="#amandada"Amanda </a> </li>
+<li><a href="#andré" André </a> </li>
+<li><a href="#adolfo" Adolfo </a></li>
+<li><a href="#bruna"Bruna </a> </li> 
+<li><a href="#beatriz"Beatriz </a></li>
+<li><a href="#carlos"Carlos </a></li>
+<li><a href="#carla"Carla </a></li>
+     </ol>
+     <p id="amanda">conteudo amanda conteudo amanda conteudo amanda conteudo amanda conteudo amanda
+    conteudo amanda conteudo amanda conteudo amanda conteudo amanda conteudo amanda co
+    conteudo amanda conteudo amanda conteudo amanda conteudo amanda conteudo amanda
+     conteudo amanda conteudo amanda conteudo amanda conteudo amanda conteudo amanda </P>
+      <p id="andré"> conteudo André conteudo André conteudo André conteudo André conteudo André conteudo André
+    conteudo André conteudo André conteudo André conteudo André conteudo André conteudo André
+     conteudo André conteudo André conteudo André conteudo André conteudo André conteudo André conteudo André
+      conteudo André conteudo André conteudo André conteudo André conteudo André
+    conteudo André conteudo André conteudo André conteudo André conteudo André conteudo André </P>
+      <p id="adolfo"> conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo
+    conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo
+    conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo
+    conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo
+    conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo conteudo Adolfo </P>
+      <p id="bruna"> conteudo Bruna  conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna
+    conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna
+    conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna
+    conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna
+    conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna conteudo Bruna </P>
+      <p id="beatriz"> conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz
+    conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz
+    conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz
+     ocnteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz
+     conteudo Beatriz conteudo Beatriz conteudo Beatriz conteudo Beatriz </P>
+      <p id="carlos"> conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos
+    conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos
+    conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos
+    conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos
+    conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos conteudo Carlos </P>
+      <p id="carla"> conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla
+    conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla
+    conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla
+    conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla
+    conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla
+    conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla conteudo Carla </P>
+    <a href="https://www.google.com/" taget="_blank" </a>
+  </body>
+</html>
