@@ -2,59 +2,9 @@ O que eu vou aprender na Trybe:
 
 - Unix
 - Bash
+- js
+- c++
+-css
+- phyton
 
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-A
-A
-A
-A
-A
-A
-A
-A
-A
 
-:w
-css
-javascript
-- Git
