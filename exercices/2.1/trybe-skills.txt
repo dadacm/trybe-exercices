@@ -2,45 +2,9 @@ O que eu vou aprender na Trybe:
 
 - Unix
 - Bash
-B
-B
-B
-B
-B
-B
-B
-B
-B
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-A
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-D
-C
-phintonC
-C
+- js
+- c++
+-css
+- phyton
 
-- Gidsaaat
+
