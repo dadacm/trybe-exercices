@@ -1,3 +1,5 @@
+
+B
 O que eu vou aprender na Trybe:
 
 - Unix
@@ -39,7 +41,8 @@ B
 B
 B
 D
-C
+C++
+cC
 phintonC
 C
 
